@@ -16,5 +16,7 @@ body{
     font-weight: 200;
 }
 .rainbow{
+    padding: 0 5px 0 5px;
     color: #cf2e2e;
+    text-decoration: none;
 }
