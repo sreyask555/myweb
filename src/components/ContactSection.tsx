@@ -31,7 +31,7 @@ export function ContactSection() {
         <h2 className="text-3xl font-bold mb-8 text-center">Get In Touch</h2>
         <Card className="max-w-lg mx-auto">
           <CardHeader>
-            <CardTitle>Contact Information</CardTitle>
+            {/* <CardTitle>Contact Information</CardTitle>   */}
             <CardDescription>
               Feel free to reach out for collaborations, opportunities, or just a friendly chat!
             </CardDescription>
